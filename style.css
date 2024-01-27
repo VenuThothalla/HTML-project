@@ -1,0 +1,21 @@
+img {
+  width: 150px;
+  height: 150px;
+  border: 1.5px solid;
+  border-color: white;
+  border-radius: 75px;
+}
+img:hover {
+  border: 1.5px solid rgb(25, 85, 214);
+}
+
+p {
+  font-weight: bold;
+  border: border-box;
+  color: rgb(25, 77, 175);
+}
+.bikename {
+  font-weight: bold;
+  border: border-box;
+  color: rgb(244, 131, 51);
+}
