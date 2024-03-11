@@ -1,1 +1,1 @@
-its my basic project using HTML and CSS
+its my basic project using HTML and CSS.
